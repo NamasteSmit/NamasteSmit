@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Myself **UpSkill**
 
-- 💬 Ask me about **Html , CSS , JavaScript , MongoDB ,React ,Tailwind**
+- 💬 Ask me about **Html , CSS , JavaScript , React**
 
 - 📫 How to reach me **smitpatel1305@gmail.com**
 
