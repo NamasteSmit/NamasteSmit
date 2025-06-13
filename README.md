@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namastesmit&label=Profile%20views&color=0e75b6&style=flat" alt="namastesmit" /> </p>
 
-- 🔭 I’m currently working on Myself **UpSkill**
-
-- 💬 Ask me about **Html , CSS , JavaScript , React**
-
 - 📫 How to reach me **smitpatel1305@gmail.com**
 
 - ⚡ Fun fact **Eunoia**
